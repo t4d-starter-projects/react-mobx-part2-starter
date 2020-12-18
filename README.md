@@ -1,7 +1,3 @@
-# Mastering React Series on WintellectNOW
-
-This is the starter project for part 2 of MobX in the series.
-
 ## Prerequisites
 
 Install Docker for Windows or Docker for Mac - https://www.docker.com/products/docker-desktop
